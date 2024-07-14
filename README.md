@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exlymex&show_icons=true&locale=en" alt="exlymex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exlymex&" alt="exlymex" /></p>
-
-![image](https://user-images.githubusercontent.com/94551924/203177212-191d5ab9-7a94-4ab3-a5de-b5a5f2d7a5c2.png)
