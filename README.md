@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exlymex&show_icons=true&locale=en" alt="exlymex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exlymex&" alt="exlymex" /></p>
+[![Pavlo Borysov profile views](https://u8views.com/api/v1/github/profiles/94551924/views/day-week-month-total-count.svg)](https://u8views.com/github/exlymex)
